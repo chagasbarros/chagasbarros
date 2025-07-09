@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Chagas Barros
 
-<!--
-**chagasbarros/chagasbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências da Computação  
+💻 Curioso por tudo que envolve tecnologia  
+🧠 Gosto de aprender, escutar e ensinar  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Sou movido pela curiosidade e pelo desejo constante de entender como as coisas funcionam. 
+Desde algoritmos até redes, de backend até inteligência artificial — tudo me interessa! 
+Aqui no GitHub compartilho meus estudos, projetos e experimentos.
+
+Se você também é apaixonado por tecnologia, bora trocar uma ideia! 🚀
+
+---
+
+### 🚀 Tecnologias e conhecimentos
+
+- Lógica de programação  
+- HTML, CSS, Bootstrap  
+- JavaScript, React  
+- Node.js, Express  
+- MySQL  
+- Docker  
+- Linux  
+
+### 🌐 Contato
+
+www.linkedin.com/in/chagasbarros
+www.instagram.com/tatamegestor/
+
+---
