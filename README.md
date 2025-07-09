@@ -27,7 +27,8 @@ Se você também é apaixonado por tecnologia, bora trocar uma ideia! 🚀
 
 ### 🌐 Contato
 
-www.linkedin.com/in/chagasbarros
-www.instagram.com/tatamegestor/
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+📸 [Instagram](https://www.instagram.com/seu-usuario)
+
 
 ---
