@@ -27,8 +27,8 @@ Se você também é apaixonado por tecnologia, bora trocar uma ideia! 🚀
 
 ### 🌐 Contato
 
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
-📸 [Instagram](https://www.instagram.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/chagasbarros/)  
+
 
 
 ---
