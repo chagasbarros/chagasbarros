@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Chagas Barros
 
-🎓 Estudante de Ciências da Computação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Curioso por tudo que envolve tecnologia  
 🧠 Gosto de aprender, escutar e ensinar  
 
